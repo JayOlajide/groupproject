@@ -19,7 +19,7 @@ This is a recipe website created by a frontend developers using HTML, CSS, and J
 
 To run the website on your local machine, follow these steps:
 
-1. Clone the repository: git clone `https://github.com/Udy-Johnson/Food-gasm-homepage.git`
+1. Clone the repository: `git clone https://github.com/JayOlajide/groupproject.git`
 2. Open the index.html file in your web browser
 3. Search for recipes
 
