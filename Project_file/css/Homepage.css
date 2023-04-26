@@ -124,7 +124,7 @@ footer a {
 #go-top-button {
     width: 50px;
     height: 50px;
-    display: none;
+    /* display: none; */
     /* Hidden by default */
     position: fixed;
     /* Fixed/sticky position */
